@@ -1,4 +1,4 @@
-Conectaré Hadoop con ElasticSearch. En concrecto, haré una conexión entre Hive y un índice (o index) de ElasticSearch
+En esta práctica conectaré Hadoop con ElasticSearch. En concrecto, haré una conexión entre Hive y un índice (o index) de ElasticSearch
 
 Conectar Hadoop y ElasticSearch, puede ser beneficioso en varios escenarios. Por ejemplo:
 
